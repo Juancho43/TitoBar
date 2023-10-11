@@ -1,0 +1,16 @@
+C:\Users\Juancho\source\repos\titovar\titovar\bin\Debug\net6.0-windows\titovar.exe
+C:\Users\Juancho\source\repos\titovar\titovar\bin\Debug\net6.0-windows\titovar.deps.json
+C:\Users\Juancho\source\repos\titovar\titovar\bin\Debug\net6.0-windows\titovar.runtimeconfig.json
+C:\Users\Juancho\source\repos\titovar\titovar\bin\Debug\net6.0-windows\titovar.dll
+C:\Users\Juancho\source\repos\titovar\titovar\bin\Debug\net6.0-windows\titovar.pdb
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.Form1.resources
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.csproj.GenerateResource.cache
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.AssemblyInfoInputs.cache
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.AssemblyInfo.cs
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.csproj.CoreCompileInputs.cache
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.dll
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\refint\titovar.dll
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.pdb
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\titovar.genruntimeconfig.cache
+C:\Users\Juancho\source\repos\titovar\titovar\obj\Debug\net6.0-windows\ref\titovar.dll
